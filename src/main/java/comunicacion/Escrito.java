@@ -11,7 +11,6 @@ public abstract class Escrito extends Pictograma{
 		this.autor = autor;
 		this.paginas = paginas;
 	}
-	
 	public String getTitulo() {
 		return titulo;
 	}
